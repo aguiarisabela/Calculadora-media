@@ -89,18 +89,19 @@ table td img{
     height: 30px;
 }
 
-.resultado{
+
+.resultado {
     padding: 8px;
     font-weight: bold;
-    background-color: black;
-    color: #fff;
     border-radius: 3px;
 }
 
 .aprovado{
+    color: #fff;
     background-color: #009432;
 }
 
 .reprovado{
+    color: #fff;
     background-color: #ff0000;
 }
